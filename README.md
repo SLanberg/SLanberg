@@ -7,7 +7,6 @@ I enjoy solving problems across frontend, backend, automation, and product — e
 
 ## Fun facts:
 - 🦉 I’d say owls are my spirit animal — I like what they represent: wisdom, curiosity, and observation.
-- 🍣 🍝 I cook Asian and Italian dishes — sushi, gyoza, ramen, pasta
 - ☕ I love tea and coffee
 
 <!--
