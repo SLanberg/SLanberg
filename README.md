@@ -1,7 +1,5 @@
 ## Hi there 👋
 
-I’m an engineer who likes building things that actually work.
-
 I enjoy solving problems across frontend, backend, automation, and product — especially when I can turn a manual or risky process into something reliable that works without me. I like algorithms, care about idempotency and data integrity, and try to keep things as simple and safe as possible.
 
 ## Projects:
