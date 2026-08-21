@@ -4,6 +4,9 @@ I’m an engineer who likes building things that actually work.
 
 I enjoy solving problems across frontend, backend, automation, and product — especially when I can turn a manual or risky process into something reliable that works without me. I like algorithms, care about idempotency and data integrity, and try to keep things as simple and safe as possible.
 
+## Projects:
+- Most of my professional work and personal projects live in private repositories. My professional work is kept private due to confidentiality and intellectual property, while my personal projects are often private because I use them as a space to experiment, build, and iterate freely — from automation and AI tools to full-stack applications.
+
 ## Fun facts:
 - 🔍 I like finding edge cases. My idea of fun is occasionally asking, “Okay, but what happens if this goes wrong?”
 - 🍣 🍝 I cook Asian and Italian dishes — sushi, gyoza, ramen, pasta
