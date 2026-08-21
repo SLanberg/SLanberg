@@ -8,7 +8,7 @@ I enjoy solving problems across frontend, backend, automation, and product — e
 - Most of my work lives in private repositories due to confidentiality or because I use them to experiment and build freely. I’m especially interested in AI, automation, and full-stack applications. See some of what I’ve built in my [LinkedIn Featured section](https://www.linkedin.com/in/lanberg/details/featured/).
 
 ## Fun facts:
-- 🔍 I like finding edge cases. My idea of fun is occasionally asking, “Okay, but what happens if this goes wrong?”
+- 🦉 I’d say owls are my spirit animal — I like what they represent: wisdom, curiosity, and observation.
 - 🍣 🍝 I cook Asian and Italian dishes — sushi, gyoza, ramen, pasta
 - ☕ I love tea and coffee
 
